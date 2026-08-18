@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_lorre",
+  "name": "Peter Lorre",
+  "external_ids": {
+    "wikidata": "Q78505",
+    "imdb": "nm0000048"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1904,
+  "death_year": 1964
+}

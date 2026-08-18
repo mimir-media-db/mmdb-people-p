@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_paul_pope",
+  "name": "Paul Pope",
+  "external_ids": {
+    "wikidata": "Q764992",
+    "imdb": "nm3188973"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}

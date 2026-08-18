@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_markle",
+  "name": "Peter Markle",
+  "external_ids": {
+    "wikidata": "Q735355",
+    "imdb": "nm0548533"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1952
+}

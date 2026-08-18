@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_pep_molina",
+  "name": "Pep Molina",
+  "external_ids": {
+    "wikidata": "Q21468406",
+    "imdb": "nm0596770"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1999
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_paul_belmondo",
+  "name": "Paul Belmondo",
+  "external_ids": {
+    "wikidata": "Q171557",
+    "imdb": "nm0069316"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1963
+}
