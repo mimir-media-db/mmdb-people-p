@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_pat_carroll",
+  "name": "Pat Carroll",
+  "external_ids": {
+    "wikidata": "Q1264306",
+    "imdb": "nm0140946"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1927,
+  "death_year": 2022
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_payne_stewart",
+  "name": "Payne Stewart",
+  "external_ids": {
+    "wikidata": "Q506891"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1957,
+  "death_year": 1999
+}

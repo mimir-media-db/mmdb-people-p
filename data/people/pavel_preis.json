@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "id": "p_pavel_preis",
+  "name": "Pavel Preis",
+  "external_ids": {
+    "wikidata": "Q131924618"
+  },
+  "last_updated": "2026-08-18"
+}

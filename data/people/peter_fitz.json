@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_fitz",
+  "name": "Peter Fitz",
+  "external_ids": {
+    "wikidata": "Q2074885",
+    "imdb": "nm0280132"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1931,
+  "death_year": 2013
+}
