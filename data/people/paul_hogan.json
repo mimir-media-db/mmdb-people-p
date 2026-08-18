@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_paul_hogan",
+  "name": "Paul Hogan",
+  "external_ids": {
+    "wikidata": "Q296641",
+    "imdb": "nm0001357"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1939
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_phoebe_cates",
+  "name": "Phoebe Cates",
+  "external_ids": {
+    "wikidata": "Q14439",
+    "imdb": "nm0000121"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1963
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_pedro_almodovar",
+  "name": "Pedro Almodóvar",
+  "external_ids": {
+    "wikidata": "Q55171",
+    "imdb": "nm0000264"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1949
+}

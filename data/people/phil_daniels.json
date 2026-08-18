@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_phil_daniels",
+  "name": "Phil Daniels",
+  "external_ids": {
+    "wikidata": "Q2671473",
+    "imdb": "nm0200057"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1958
+}

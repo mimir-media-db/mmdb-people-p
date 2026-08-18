@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_berg",
+  "name": "Peter Berg",
+  "external_ids": {
+    "wikidata": "Q183141",
+    "imdb": "nm0000916"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1964
+}

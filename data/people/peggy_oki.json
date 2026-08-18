@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peggy_oki",
+  "name": "Peggy Oki",
+  "external_ids": {
+    "wikidata": "Q3323518",
+    "imdb": "nm1124131"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1956
+}

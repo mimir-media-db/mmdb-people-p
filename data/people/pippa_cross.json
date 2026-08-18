@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_pippa_cross",
+  "name": "Pippa Cross",
+  "external_ids": {
+    "wikidata": "Q19587180",
+    "imdb": "nm0189248"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1956
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_patrick_swayze",
+  "name": "Patrick Swayze",
+  "external_ids": {
+    "wikidata": "Q49004",
+    "imdb": "nm0000664"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1952,
+  "death_year": 2009
+}

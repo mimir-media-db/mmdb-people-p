@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_lynch",
+  "name": "Peter Lynch",
+  "external_ids": {
+    "wikidata": "Q5392018",
+    "imdb": "nm0528426"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1957
+}
