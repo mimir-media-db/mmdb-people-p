@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_pam_ferris",
+  "name": "Pam Ferris",
+  "external_ids": {
+    "wikidata": "Q234071",
+    "imdb": "nm0274913"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1948
+}

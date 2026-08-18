@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_care",
+  "name": "Peter Care",
+  "external_ids": {
+    "wikidata": "Q7173174",
+    "imdb": "nm0136775"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1953
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_patrice_oneal",
+  "name": "Patrice O'Neal",
+  "external_ids": {
+    "wikidata": "Q4145",
+    "imdb": "nm1169306"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969,
+  "death_year": 2011
+}
