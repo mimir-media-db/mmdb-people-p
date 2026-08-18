@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_penn_jillette",
+  "name": "Penn Jillette",
+  "external_ids": {
+    "wikidata": "Q4129653",
+    "imdb": "nm0422710"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1955
+}

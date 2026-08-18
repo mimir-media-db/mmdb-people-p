@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_mayhew",
+  "name": "Peter Mayhew",
+  "external_ids": {
+    "wikidata": "Q560552",
+    "imdb": "nm0562679"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1944,
+  "death_year": 2019
+}

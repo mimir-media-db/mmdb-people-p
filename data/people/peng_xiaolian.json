@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_peng_xiaolian",
+  "name": "Peng Xiaolian",
+  "external_ids": {
+    "wikidata": "Q9139892",
+    "imdb": "nm1011907"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1953,
+  "death_year": 2019
+}

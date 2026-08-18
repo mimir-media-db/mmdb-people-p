@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_paco_maestre",
+  "name": "Paco Maestre",
+  "external_ids": {
+    "wikidata": "Q3391245",
+    "imdb": "nm0535481"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1957,
+  "death_year": 2011
+}
