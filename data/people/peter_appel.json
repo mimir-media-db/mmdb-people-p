@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_appel",
+  "name": "Peter Appel",
+  "external_ids": {
+    "wikidata": "Q3376428",
+    "imdb": "nm0032216"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1959
+}

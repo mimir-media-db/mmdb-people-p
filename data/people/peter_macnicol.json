@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_macnicol",
+  "name": "Peter MacNicol",
+  "external_ids": {
+    "wikidata": "Q299309",
+    "imdb": "nm0001493"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1954
+}

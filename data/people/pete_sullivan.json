@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_pete_sullivan",
+  "name": "Pete Sullivan",
+  "external_ids": {
+    "wikidata": "Q7172289",
+    "imdb": "nm0838287"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1964
+}

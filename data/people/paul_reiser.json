@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_paul_reiser",
+  "name": "Paul Reiser",
+  "external_ids": {
+    "wikidata": "Q430922",
+    "imdb": "nm0001663"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1956
+}

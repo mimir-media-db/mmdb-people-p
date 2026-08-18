@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_prince",
+  "name": "Prince",
+  "external_ids": {
+    "wikidata": "Q7542",
+    "imdb": "nm0002239"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1958,
+  "death_year": 2016
+}

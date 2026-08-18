@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_paul_brooks",
+  "name": "Paul Brooks",
+  "external_ids": {
+    "wikidata": "Q2059013",
+    "imdb": "nm0112189"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1958
+}

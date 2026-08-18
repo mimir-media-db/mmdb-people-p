@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_abrams",
+  "name": "Peter Abrams",
+  "external_ids": {
+    "wikidata": "Q15128739",
+    "imdb": "nm0009222"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1999
+}

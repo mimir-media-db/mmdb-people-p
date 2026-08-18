@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_kent",
+  "name": "Peter Kent",
+  "external_ids": {
+    "wikidata": "Q11331756",
+    "imdb": "nm0448827"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1956
+}

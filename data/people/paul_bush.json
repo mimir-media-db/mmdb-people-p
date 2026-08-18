@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_paul_bush",
+  "name": "Paul Bush",
+  "external_ids": {
+    "wikidata": "Q7149623",
+    "imdb": "nm0124186"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1956,
+  "death_year": 2023
+}

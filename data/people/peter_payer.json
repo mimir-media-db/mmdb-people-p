@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_payer",
+  "name": "Peter Payer",
+  "external_ids": {
+    "wikidata": "Q2077488",
+    "imdb": "nm0668199"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1964
+}

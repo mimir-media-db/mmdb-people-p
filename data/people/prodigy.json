@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_prodigy",
+  "name": "Prodigy",
+  "external_ids": {
+    "wikidata": "Q522739",
+    "imdb": "nm1437124"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1974,
+  "death_year": 2017
+}

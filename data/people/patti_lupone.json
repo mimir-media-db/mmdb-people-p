@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_patti_lupone",
+  "name": "Patti LuPone",
+  "external_ids": {
+    "wikidata": "Q270324",
+    "imdb": "nm0526985"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1949
+}

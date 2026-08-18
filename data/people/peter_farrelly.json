@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_farrelly",
+  "name": "Peter Farrelly",
+  "external_ids": {
+    "wikidata": "Q1368300",
+    "imdb": "nm0268380"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1956
+}

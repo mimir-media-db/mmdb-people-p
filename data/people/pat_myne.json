@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_pat_myne",
+  "name": "Pat Myne",
+  "external_ids": {
+    "wikidata": "Q5999461",
+    "imdb": "nm0617064"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1966
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_patrice_leconte",
+  "name": "Patrice Leconte",
+  "external_ids": {
+    "wikidata": "Q106709",
+    "imdb": "nm0496312"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1947
+}

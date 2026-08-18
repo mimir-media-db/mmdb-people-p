@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_patachou",
+  "name": "Patachou",
+  "external_ids": {
+    "wikidata": "Q290345",
+    "imdb": "nm0665213"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1918,
+  "death_year": 2015
+}
