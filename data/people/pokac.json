@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_pokac",
+  "name": "Pokáč",
+  "external_ids": {
+    "wikidata": "Q55172176"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1990
+}

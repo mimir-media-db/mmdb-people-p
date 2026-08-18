@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_paul_soles",
+  "name": "Paul Soles",
+  "external_ids": {
+    "wikidata": "Q3372216",
+    "imdb": "nm0813015"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1930,
+  "death_year": 2021
+}

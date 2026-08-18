@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_phil_lamarr",
+  "name": "Phil LaMarr",
+  "external_ids": {
+    "wikidata": "Q356541",
+    "imdb": "nm0482851"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1967
+}

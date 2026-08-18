@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_pep_ricart",
+  "name": "Pep Ricart",
+  "external_ids": {
+    "wikidata": "Q17044893",
+    "imdb": "nm1871170"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1961
+}
