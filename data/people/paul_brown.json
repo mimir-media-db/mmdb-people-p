@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_paul_brown",
+  "name": "Paul Brown",
+  "external_ids": {
+    "wikidata": "Q22235645",
+    "imdb": "nm0114399"
+  },
+  "last_updated": "2026-08-17",
+  "death_year": null
+}

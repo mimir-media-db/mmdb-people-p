@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_rodger",
+  "name": "Peter Rodger",
+  "external_ids": {
+    "wikidata": "Q16942568",
+    "imdb": "nm3201913"
+  },
+  "last_updated": "2026-08-17",
+  "birth_year": 1965,
+  "death_year": null
+}

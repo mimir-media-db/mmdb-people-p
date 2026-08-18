@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_pavel_priluchny",
+  "name": "Pavel Priluchny",
+  "external_ids": {
+    "wikidata": "Q4378600",
+    "imdb": "nm3488770"
+  },
+  "last_updated": "2026-08-16",
+  "birth_year": 1987,
+  "death_year": null
+}
