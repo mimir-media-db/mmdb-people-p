@@ -3,9 +3,10 @@
   "id": "p_pat_obrien",
   "name": "Pat O'Brien",
   "external_ids": {
-    "wikidata": "Q3368573",
-    "imdb": "nm0639754"
+    "wikidata": "Q1790788",
+    "imdb": "nm0002285"
   },
   "last_updated": "2026-08-18",
-  "birth_year": 1948
+  "birth_year": 1899,
+  "death_year": 1983
 }
