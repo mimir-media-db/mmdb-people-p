@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_phil_roman",
+  "name": "Phil Roman",
+  "external_ids": {
+    "wikidata": "Q3378830",
+    "imdb": "nm0738736"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1930
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_the_cossack",
+  "name": "Peter the Cossack",
+  "external_ids": {
+    "wikidata": "Q912140"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1599,
+  "death_year": 1592
+}

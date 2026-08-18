@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_patti_smith",
+  "name": "Patti Smith",
+  "external_ids": {
+    "wikidata": "Q557",
+    "imdb": "nm0005446"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1946
+}
