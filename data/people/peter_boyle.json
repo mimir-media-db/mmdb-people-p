@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_boyle",
+  "name": "Peter Boyle",
+  "external_ids": {
+    "wikidata": "Q315123",
+    "imdb": "nm0001967"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1935,
+  "death_year": 2006
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_paul_mcgillion",
+  "name": "Paul McGillion",
+  "external_ids": {
+    "wikidata": "Q503036",
+    "imdb": "nm0569295"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}

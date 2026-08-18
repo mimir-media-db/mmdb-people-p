@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_phoebe_dollar",
+  "name": "Phoebe Dollar",
+  "external_ids": {
+    "wikidata": "Q186744",
+    "imdb": "nm1085263"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1972
+}

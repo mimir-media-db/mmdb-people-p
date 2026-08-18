@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_polat_dal",
+  "name": "Polat Dal",
+  "external_ids": {
+    "wikidata": "Q2101122",
+    "imdb": "nm0197560"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1972
+}

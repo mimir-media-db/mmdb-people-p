@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_paris_hilton",
+  "name": "Paris Hilton",
+  "external_ids": {
+    "wikidata": "Q47899",
+    "imdb": "nm0385296"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1981
+}

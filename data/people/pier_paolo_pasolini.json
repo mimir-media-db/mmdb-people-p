@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_pier_paolo_pasolini",
+  "name": "Pier Paolo Pasolini",
+  "external_ids": {
+    "wikidata": "Q25120",
+    "imdb": "nm0001596"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1922,
+  "death_year": 1975
+}
