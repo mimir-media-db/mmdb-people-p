@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_pepa_lopez",
+  "name": "Pepa López",
+  "external_ids": {
+    "wikidata": "Q20100990",
+    "imdb": "nm0530316"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1952
+}
