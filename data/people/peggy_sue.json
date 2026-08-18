@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peggy_sue",
+  "name": "Peggy Sue",
+  "external_ids": {
+    "wikidata": "Q15390955",
+    "imdb": "nm0837255"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1978
+}

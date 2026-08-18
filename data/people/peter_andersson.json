@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_andersson",
+  "name": "Peter Andersson",
+  "external_ids": {
+    "wikidata": "Q2778476",
+    "imdb": "nm0027800"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1953
+}

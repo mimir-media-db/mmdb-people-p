@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_peggy_lipton",
+  "name": "Peggy Lipton",
+  "external_ids": {
+    "wikidata": "Q235305",
+    "imdb": "nm0005152"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1946,
+  "death_year": 2019
+}

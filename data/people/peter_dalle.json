@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_dalle",
+  "name": "Peter Dalle",
+  "external_ids": {
+    "wikidata": "Q5701514",
+    "imdb": "nm0198059"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1956
+}

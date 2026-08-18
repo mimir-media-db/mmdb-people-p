@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_patty_hearst",
+  "name": "Patty Hearst",
+  "external_ids": {
+    "wikidata": "Q229556",
+    "imdb": "nm0372553"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1954
+}

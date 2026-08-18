@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_gallagher",
+  "name": "Peter Gallagher",
+  "external_ids": {
+    "wikidata": "Q309900",
+    "imdb": "nm0001251"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1955
+}

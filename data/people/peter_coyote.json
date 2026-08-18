@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_coyote",
+  "name": "Peter Coyote",
+  "external_ids": {
+    "wikidata": "Q354873",
+    "imdb": "nm0001075"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1941
+}

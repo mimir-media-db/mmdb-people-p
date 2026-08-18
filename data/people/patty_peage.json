@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_patty_peage",
+  "name": "Patty Peage",
+  "external_ids": {
+    "wikidata": "Q3897976",
+    "imdb": "nm0109238"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1979
+}

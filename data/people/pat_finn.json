@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_pat_finn",
+  "name": "Pat Finn",
+  "external_ids": {
+    "wikidata": "Q3987992",
+    "imdb": "nm0278156"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1965,
+  "death_year": 2025
+}

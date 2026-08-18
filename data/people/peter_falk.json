@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_falk",
+  "name": "Peter Falk",
+  "external_ids": {
+    "wikidata": "Q484881",
+    "imdb": "nm0000393"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1927,
+  "death_year": 2011
+}

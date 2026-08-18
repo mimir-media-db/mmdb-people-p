@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_hald",
+  "name": "Peter Hald",
+  "external_ids": {
+    "wikidata": "Q5783480",
+    "imdb": "nm0354784"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1940,
+  "death_year": 2025
+}

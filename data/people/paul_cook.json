@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_paul_cook",
+  "name": "Paul Cook",
+  "external_ids": {
+    "wikidata": "Q363260",
+    "imdb": "nm0177222"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1956
+}
