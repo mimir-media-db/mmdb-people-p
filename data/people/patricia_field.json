@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_patricia_field",
+  "name": "Patricia Field",
+  "external_ids": {
+    "wikidata": "Q443470",
+    "imdb": "nm0276010"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1941
+}

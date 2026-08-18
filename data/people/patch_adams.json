@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_patch_adams",
+  "name": "Patch Adams",
+  "external_ids": {
+    "wikidata": "Q721885",
+    "imdb": "nm0011254"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1945
+}

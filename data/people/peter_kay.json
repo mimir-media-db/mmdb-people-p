@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_kay",
+  "name": "Peter Kay",
+  "external_ids": {
+    "wikidata": "Q712796",
+    "imdb": "nm0443153"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1973
+}

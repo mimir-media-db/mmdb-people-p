@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_berling",
+  "name": "Peter Berling",
+  "external_ids": {
+    "wikidata": "Q64577",
+    "imdb": "nm0075655"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1934,
+  "death_year": 2017
+}

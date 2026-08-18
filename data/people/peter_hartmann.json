@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_hartmann",
+  "name": "Peter Hartmann",
+  "external_ids": {
+    "wikidata": "Q12331560",
+    "imdb": "nm0367112"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}

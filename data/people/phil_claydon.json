@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_phil_claydon",
+  "name": "Phil Claydon",
+  "external_ids": {
+    "wikidata": "Q11887872",
+    "imdb": "nm0165616"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1976
+}

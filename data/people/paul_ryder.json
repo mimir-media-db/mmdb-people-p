@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_paul_ryder",
+  "name": "Paul Ryder",
+  "external_ids": {
+    "wikidata": "Q7153378",
+    "imdb": "nm1174667"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1964,
+  "death_year": 2022
+}

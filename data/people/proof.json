@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_proof",
+  "name": "Proof",
+  "external_ids": {
+    "wikidata": "Q314597",
+    "imdb": "nm1146084"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1973,
+  "death_year": 2006
+}

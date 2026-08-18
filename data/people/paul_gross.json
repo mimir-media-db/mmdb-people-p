@@ -1,9 +1,10 @@
 {
   "schema_version": 1,
-  "id": "p_peter_appel",
-  "name": "Peter Appel",
+  "id": "p_paul_gross",
+  "name": "Paul Gross",
   "external_ids": {
-    "wikidata": "Q134825264"
+    "wikidata": "Q720723",
+    "imdb": "nm0343472"
   },
   "last_updated": "2026-08-18",
   "birth_year": 1959

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_pepa_nos",
+  "name": "Pepa Nos",
+  "external_ids": {
+    "wikidata": "Q160744",
+    "imdb": "nm1119179"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1949
+}

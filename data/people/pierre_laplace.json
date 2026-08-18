@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_pierre_laplace",
+  "name": "Pierre Laplace",
+  "external_ids": {
+    "wikidata": "Q3385776",
+    "imdb": "nm0487615"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1961
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_pau",
+  "name": "Peter Pau",
+  "external_ids": {
+    "wikidata": "Q180029",
+    "imdb": "nm0666702"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1951
+}
