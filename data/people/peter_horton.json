@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_horton",
+  "name": "Peter Horton",
+  "external_ids": {
+    "wikidata": "Q130034",
+    "imdb": "nm0005022"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1953
+}

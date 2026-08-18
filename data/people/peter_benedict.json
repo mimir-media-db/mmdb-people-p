@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_benedict",
+  "name": "Peter Benedict",
+  "external_ids": {
+    "wikidata": "Q2073892",
+    "imdb": "nm0070802"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1963
+}

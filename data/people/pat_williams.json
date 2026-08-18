@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_pat_williams",
+  "name": "Pat Williams",
+  "external_ids": {
+    "wikidata": "Q7144118",
+    "imdb": "nm0931426"
+  },
+  "last_updated": "2026-08-18"
+}

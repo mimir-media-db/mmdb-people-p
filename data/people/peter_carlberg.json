@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_carlberg",
+  "name": "Peter Carlberg",
+  "external_ids": {
+    "wikidata": "Q4568707",
+    "imdb": "nm1936764"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1950
+}

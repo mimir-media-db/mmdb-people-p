@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_pete_johnson",
+  "name": "Pete Johnson",
+  "external_ids": {
+    "wikidata": "Q1399599",
+    "imdb": "nm0425984"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1904,
+  "death_year": 1967
+}
