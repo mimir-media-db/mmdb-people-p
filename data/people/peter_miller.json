@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_miller",
+  "name": "Peter Miller",
+  "external_ids": {
+    "wikidata": "Q3376757",
+    "imdb": "nm1022527"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1967
+}

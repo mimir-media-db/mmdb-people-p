@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_greenaway",
+  "name": "Peter Greenaway",
+  "external_ids": {
+    "wikidata": "Q55282",
+    "imdb": "nm0000425"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1942
+}

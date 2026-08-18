@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_pete_townshend",
+  "name": "Pete Townshend",
+  "external_ids": {
+    "wikidata": "Q26933",
+    "imdb": "nm0870175"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1945
+}
