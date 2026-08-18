@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_pat_boone",
+  "name": "Pat Boone",
+  "external_ids": {
+    "wikidata": "Q342778",
+    "imdb": "nm0004769"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1934
+}

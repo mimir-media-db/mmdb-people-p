@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_paul_allen",
+  "name": "Paul Allen",
+  "external_ids": {
+    "wikidata": "Q162005",
+    "imdb": "nm0020885"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1953,
+  "death_year": 2018
+}

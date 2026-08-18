@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_mccabe",
+  "name": "Peter McCabe",
+  "external_ids": {
+    "wikidata": "Q5981040",
+    "imdb": "nm0564499"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1999
+}

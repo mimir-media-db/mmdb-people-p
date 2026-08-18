@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_ash",
+  "name": "Peter Ash",
+  "external_ids": {
+    "wikidata": "Q7172570",
+    "imdb": "nm1316408"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1985
+}

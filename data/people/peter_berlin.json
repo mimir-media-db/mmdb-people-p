@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_berlin",
+  "name": "Peter Berlin",
+  "external_ids": {
+    "wikidata": "Q96428",
+    "imdb": "nm0121509"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1942
+}

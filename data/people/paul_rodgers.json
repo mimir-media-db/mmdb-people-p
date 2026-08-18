@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_paul_rodgers",
+  "name": "Paul Rodgers",
+  "external_ids": {
+    "wikidata": "Q313098",
+    "imdb": "nm0734759"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1949
+}

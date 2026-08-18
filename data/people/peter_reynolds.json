@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_reynolds",
+  "name": "Peter Reynolds",
+  "external_ids": {
+    "wikidata": "Q3891940",
+    "imdb": "nm0721573"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1926,
+  "death_year": 1975
+}

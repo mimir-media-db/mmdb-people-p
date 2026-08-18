@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_petri_kotwica",
+  "name": "Petri Kotwica",
+  "external_ids": {
+    "wikidata": "Q257877",
+    "imdb": "nm0467870"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1964
+}

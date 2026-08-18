@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_passi",
+  "name": "Passi",
+  "external_ids": {
+    "wikidata": "Q1395502",
+    "imdb": "nm1553826"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1972
+}
