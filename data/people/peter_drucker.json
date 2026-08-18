@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_drucker",
+  "name": "Peter Drucker",
+  "external_ids": {
+    "wikidata": "Q84238",
+    "imdb": "nm1538914"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1909,
+  "death_year": 2005
+}

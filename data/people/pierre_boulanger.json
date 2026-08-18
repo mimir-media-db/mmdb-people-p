@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_pierre_boulanger",
+  "name": "Pierre Boulanger",
+  "external_ids": {
+    "wikidata": "Q2093271",
+    "imdb": "nm1227027"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1987
+}

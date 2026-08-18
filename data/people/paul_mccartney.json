@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_paul_mccartney",
+  "name": "Paul McCartney",
+  "external_ids": {
+    "wikidata": "Q2599",
+    "imdb": "nm0005200"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1942
+}

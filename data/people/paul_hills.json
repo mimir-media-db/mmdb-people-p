@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_paul_hills",
+  "name": "Paul Hills",
+  "external_ids": {
+    "wikidata": "Q95325893",
+    "imdb": "nm0385138"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1968
+}

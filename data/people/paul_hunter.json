@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_paul_hunter",
+  "name": "Paul Hunter",
+  "external_ids": {
+    "wikidata": "Q957118",
+    "imdb": "nm0402995"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1999
+}

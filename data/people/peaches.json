@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peaches",
+  "name": "Peaches",
+  "external_ids": {
+    "wikidata": "Q2745791",
+    "imdb": "nm0668743"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1984
+}

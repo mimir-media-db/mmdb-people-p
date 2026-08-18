@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_webber",
+  "name": "Peter Webber",
+  "external_ids": {
+    "wikidata": "Q935794",
+    "imdb": "nm0916424"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1967
+}
