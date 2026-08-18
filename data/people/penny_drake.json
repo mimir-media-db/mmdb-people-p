@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_penny_drake",
+  "name": "Penny Drake",
+  "external_ids": {
+    "wikidata": "Q511255",
+    "imdb": "nm1715297"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1977
+}

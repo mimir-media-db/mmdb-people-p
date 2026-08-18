@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_burroughs",
+  "name": "Peter Burroughs",
+  "external_ids": {
+    "wikidata": "Q16734434",
+    "imdb": "nm0123214"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1947
+}
