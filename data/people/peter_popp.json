@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_popp",
+  "name": "Peter Popp",
+  "external_ids": {
+    "wikidata": "Q123488853",
+    "imdb": "nm0691533"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1964
+}

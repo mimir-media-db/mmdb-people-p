@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_pete_tong",
+  "name": "Pete Tong",
+  "external_ids": {
+    "wikidata": "Q947180",
+    "imdb": "nm0867256"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1960
+}
