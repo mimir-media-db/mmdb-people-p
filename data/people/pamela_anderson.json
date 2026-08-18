@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_pamela_anderson",
+  "name": "Pamela Anderson",
+  "external_ids": {
+    "wikidata": "Q83325",
+    "imdb": "nm0000097"
+  },
+  "last_updated": "2026-08-17",
+  "birth_year": 1967,
+  "death_year": null
+}
