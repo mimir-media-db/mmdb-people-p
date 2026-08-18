@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_ho",
+  "name": "Peter Ho",
+  "external_ids": {
+    "wikidata": "Q717095",
+    "imdb": "nm0387363"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1975
+}

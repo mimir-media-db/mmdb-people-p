@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_yarrow",
+  "name": "Peter Yarrow",
+  "external_ids": {
+    "wikidata": "Q2033344",
+    "imdb": "nm0946534"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1938,
+  "death_year": 2025
+}

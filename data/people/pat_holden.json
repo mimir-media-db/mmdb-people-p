@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_pat_holden",
+  "name": "Pat Holden",
+  "external_ids": {
+    "wikidata": "Q3897544",
+    "imdb": "nm1425041"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1965
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_philip_johnson",
+  "name": "Philip Johnson",
+  "external_ids": {
+    "wikidata": "Q183528",
+    "imdb": "nm0426004"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1906,
+  "death_year": 2007
+}
