@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_pierson_fode",
+  "name": "Pierson Fodé",
+  "external_ids": {
+    "wikidata": "Q16508955",
+    "imdb": "nm4943457"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1991
+}
