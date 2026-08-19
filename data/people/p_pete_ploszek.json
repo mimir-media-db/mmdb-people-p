@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_pete_ploszek",
+  "name": "Pete Ploszek",
+  "external_ids": {
+    "wikidata": "Q24702631",
+    "imdb": "nm5293935"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1987
+}
