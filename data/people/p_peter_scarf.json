@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_scarf",
+  "name": "Peter Scarf",
+  "external_ids": {
+    "wikidata": "Q7176794",
+    "imdb": "nm0769151"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1980
+}

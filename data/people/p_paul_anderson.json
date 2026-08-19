@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_paul_anderson",
+  "name": "Paul Anderson",
+  "external_ids": {
+    "wikidata": "Q2058704",
+    "imdb": "nm2167957"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1978
+}

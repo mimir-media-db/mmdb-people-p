@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_stuart",
+  "name": "Peter Stuart",
+  "external_ids": {
+    "wikidata": "Q117885679",
+    "imdb": "nm0835828"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1958
+}

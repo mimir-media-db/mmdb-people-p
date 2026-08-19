@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_petey_pablo",
+  "name": "Petey Pablo",
+  "external_ids": {
+    "wikidata": "Q775938",
+    "imdb": "nm1294140"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1973
+}

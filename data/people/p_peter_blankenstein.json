@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_blankenstein",
+  "name": "Peter Blankenstein",
+  "external_ids": {
+    "wikidata": "Q22001722",
+    "imdb": "nm3146852"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1955
+}
