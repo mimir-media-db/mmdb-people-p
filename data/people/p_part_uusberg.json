@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_part_uusberg",
+  "name": "Pärt Uusberg",
+  "external_ids": {
+    "wikidata": "Q4795686",
+    "imdb": "nm2596976"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1986
+}

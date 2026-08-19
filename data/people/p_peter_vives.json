@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_vives",
+  "name": "Peter Vives",
+  "external_ids": {
+    "wikidata": "Q7177502",
+    "imdb": "nm2140346"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1987
+}

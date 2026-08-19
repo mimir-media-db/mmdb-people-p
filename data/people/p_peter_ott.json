@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_ott",
+  "name": "Peter Ott",
+  "external_ids": {
+    "wikidata": "Q2077368",
+    "imdb": "nm0653059"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1966
+}
