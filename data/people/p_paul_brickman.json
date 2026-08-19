@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_paul_brickman",
+  "name": "Paul Brickman",
+  "external_ids": {
+    "wikidata": "Q661685",
+    "imdb": "nm0001887"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1949
+}

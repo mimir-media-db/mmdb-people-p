@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_ohlendorf",
+  "name": "Peter Ohlendorf",
+  "external_ids": {
+    "wikidata": "Q2077342",
+    "imdb": "nm4914866"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1951
+}

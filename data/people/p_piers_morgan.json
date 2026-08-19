@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_piers_morgan",
+  "name": "Piers Morgan",
+  "external_ids": {
+    "wikidata": "Q557758",
+    "imdb": "nm0604955"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1965
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_paul_fried",
+  "name": "Paul Fried",
+  "external_ids": {
+    "wikidata": "Q5743928",
+    "imdb": "nm0294971"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1958
+}
