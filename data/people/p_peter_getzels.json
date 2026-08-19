@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_getzels",
+  "name": "Peter Getzels",
+  "external_ids": {
+    "wikidata": "Q24852034",
+    "imdb": "nm2011631"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1956
+}
