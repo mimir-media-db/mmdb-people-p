@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_jeffrey",
+  "name": "Peter Jeffrey",
+  "external_ids": {
+    "wikidata": "Q3376671",
+    "imdb": "nm0420312"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1929,
+  "death_year": 1999
+}

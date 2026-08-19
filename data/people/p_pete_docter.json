@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_pete_docter",
+  "name": "Pete Docter",
+  "external_ids": {
+    "wikidata": "Q357627",
+    "imdb": "nm0230032"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1968
+}

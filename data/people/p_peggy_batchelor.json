@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_peggy_batchelor",
+  "name": "Peggy Batchelor",
+  "external_ids": {
+    "wikidata": "Q131544973",
+    "imdb": "nm1513239"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1916,
+  "death_year": 2020
+}
