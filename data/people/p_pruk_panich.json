@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_pruk_panich",
+  "name": "Pruk Panich",
+  "external_ids": {
+    "wikidata": "Q111303667",
+    "imdb": "nm11523860"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1992
+}
