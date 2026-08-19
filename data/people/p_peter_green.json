@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_green",
+  "name": "Peter Green",
+  "external_ids": {
+    "wikidata": "Q315408",
+    "imdb": "nm1467069"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1946,
+  "death_year": 2020
+}

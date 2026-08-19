@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_penny_lane",
+  "name": "Penny Lane",
+  "external_ids": {
+    "wikidata": "Q24590197",
+    "imdb": "nm3704075"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1978
+}

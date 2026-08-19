@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_patrick_mchale",
+  "name": "Patrick McHale",
+  "external_ids": {
+    "wikidata": "Q17386526",
+    "imdb": "nm3239034"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1983
+}
