@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_peggy_mccay",
+  "name": "Peggy McCay",
+  "external_ids": {
+    "wikidata": "Q2329698",
+    "imdb": "nm0565556"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1927,
+  "death_year": 2018
+}
