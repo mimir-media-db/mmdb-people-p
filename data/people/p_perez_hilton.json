@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_perez_hilton",
+  "name": "Perez Hilton",
+  "external_ids": {
+    "wikidata": "Q318108",
+    "imdb": "nm0491768"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1978
+}

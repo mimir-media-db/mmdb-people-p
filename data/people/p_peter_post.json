@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_post",
+  "name": "Peter Post",
+  "external_ids": {
+    "wikidata": "Q4866254",
+    "imdb": "nm0692857"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1971
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_paul_seed",
+  "name": "Paul Seed",
+  "external_ids": {
+    "wikidata": "Q7153513",
+    "imdb": "nm0781477"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1947,
+  "death_year": 2025
+}
