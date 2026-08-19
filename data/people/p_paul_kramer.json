@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_paul_kramer",
+  "name": "Paul Kramer",
+  "external_ids": {
+    "wikidata": "Q91044",
+    "imdb": "nm6502703"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1842,
+  "death_year": 1898
+}

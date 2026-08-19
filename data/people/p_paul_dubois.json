@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_paul_dubois",
+  "name": "Paul Dubois",
+  "external_ids": {
+    "wikidata": "Q2524533",
+    "imdb": "nm5279413"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1829,
+  "death_year": 1905
+}
