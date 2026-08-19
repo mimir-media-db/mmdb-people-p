@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_paris_warner",
+  "name": "Paris Warner",
+  "external_ids": {
+    "wikidata": "Q99586478",
+    "imdb": "nm6455381"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1998
+}
