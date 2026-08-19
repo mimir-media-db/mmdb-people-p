@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_patrice_evra",
+  "name": "Patrice Evra",
+  "external_ids": {
+    "wikidata": "Q1916",
+    "imdb": "nm3452734"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1981
+}
