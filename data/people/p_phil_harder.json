@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_phil_harder",
+  "name": "Phil Harder",
+  "external_ids": {
+    "wikidata": "Q7181967",
+    "imdb": "nm0362136"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1964
+}
