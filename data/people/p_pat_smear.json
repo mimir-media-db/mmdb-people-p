@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_pat_smear",
+  "name": "Pat Smear",
+  "external_ids": {
+    "wikidata": "Q353973",
+    "imdb": "nm0751942"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1959
+}
