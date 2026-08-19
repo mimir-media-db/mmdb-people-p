@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_pam_coats",
+  "name": "Pam Coats",
+  "external_ids": {
+    "wikidata": "Q23992768",
+    "imdb": "nm0167703"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1957
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_pilot_bunch",
+  "name": "Pilot Bunch",
+  "external_ids": {
+    "wikidata": "Q111974117",
+    "imdb": "nm11070581"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 2006
+}

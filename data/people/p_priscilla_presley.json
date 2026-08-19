@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_priscilla_presley",
+  "name": "Priscilla Presley",
+  "external_ids": {
+    "wikidata": "Q234773",
+    "imdb": "nm0001636"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1945
+}
