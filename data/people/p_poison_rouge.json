@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_poison_rouge",
+  "name": "Poison Rouge",
+  "external_ids": {
+    "wikidata": "Q72112471",
+    "imdb": "nm3091632"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1999
+}
