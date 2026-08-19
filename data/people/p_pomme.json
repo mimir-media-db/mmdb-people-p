@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_pomme",
+  "name": "Pomme",
+  "external_ids": {
+    "wikidata": "Q42397176",
+    "imdb": "nm8954532"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1996
+}

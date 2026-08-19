@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_paris_zarcilla",
+  "name": "Paris Zarcilla",
+  "external_ids": {
+    "wikidata": "Q60442977",
+    "imdb": "nm5571303"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1986
+}
