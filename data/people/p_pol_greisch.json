@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_pol_greisch",
+  "name": "Pol Greisch",
+  "external_ids": {
+    "wikidata": "Q7208814",
+    "imdb": "nm1833111"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1930,
+  "death_year": 2026
+}
