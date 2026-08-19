@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_pegi_vail",
+  "name": "Pegi Vail",
+  "external_ids": {
+    "wikidata": "Q30046573",
+    "imdb": "nm0883206"
+  },
+  "last_updated": "2026-08-19"
+}

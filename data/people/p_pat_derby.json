@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_pat_derby",
+  "name": "Pat Derby",
+  "external_ids": {
+    "wikidata": "Q7143369"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1942,
+  "death_year": 2013
+}

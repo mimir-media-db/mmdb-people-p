@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_brunner",
+  "name": "Peter Brunner",
+  "external_ids": {
+    "wikidata": "Q58038469",
+    "imdb": "nm3497897"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1982
+}
