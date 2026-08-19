@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_pat_wind",
+  "name": "Pat Wind",
+  "external_ids": {
+    "wikidata": "Q65455601",
+    "imdb": "nm9745301"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1993
+}
