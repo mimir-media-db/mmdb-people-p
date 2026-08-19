@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter",
+  "name": "Peter",
+  "external_ids": {
+    "wikidata": "Q3389321",
+    "imdb": "nm0676201"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1952
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_phil_donahue",
+  "name": "Phil Donahue",
+  "external_ids": {
+    "wikidata": "Q1336253",
+    "imdb": "nm0004882"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1935,
+  "death_year": 2024
+}

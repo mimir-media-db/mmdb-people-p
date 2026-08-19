@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_phil_scott",
+  "name": "Phil Scott",
+  "external_ids": {
+    "wikidata": "Q7185808"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1958
+}

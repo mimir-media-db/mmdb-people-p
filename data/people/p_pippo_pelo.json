@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_pippo_pelo",
+  "name": "Pippo Pelo",
+  "external_ids": {
+    "wikidata": "Q3905541",
+    "imdb": "nm1185956"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1966
+}
