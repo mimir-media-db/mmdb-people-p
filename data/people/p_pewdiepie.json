@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_pewdiepie",
+  "name": "PewDiePie",
+  "external_ids": {
+    "wikidata": "Q13423853",
+    "imdb": "nm5579304"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1989
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_parc_manther",
+  "name": "Parc Manther",
+  "external_ids": {
+    "wikidata": "Q11356931",
+    "imdb": "nm3401087"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1978
+}
