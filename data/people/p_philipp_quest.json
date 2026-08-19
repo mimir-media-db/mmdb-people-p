@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_philipp_quest",
+  "name": "Philipp Quest",
+  "external_ids": {
+    "wikidata": "Q20242920",
+    "imdb": "nm2439699"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1987
+}

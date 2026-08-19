@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_plan_b",
+  "name": "Plan B",
+  "external_ids": {
+    "wikidata": "Q552341",
+    "imdb": "nm2304008"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1983
+}

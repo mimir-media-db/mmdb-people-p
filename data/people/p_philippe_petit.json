@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_philippe_petit",
+  "name": "Philippe Petit",
+  "external_ids": {
+    "wikidata": "Q705289",
+    "imdb": "nm0677597"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1949
+}

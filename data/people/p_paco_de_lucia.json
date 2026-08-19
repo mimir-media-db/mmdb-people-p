@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_paco_de_lucia",
+  "name": "Paco de Lucía",
+  "external_ids": {
+    "wikidata": "Q153300",
+    "imdb": "nm0524834"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1947,
+  "death_year": 2014
+}
