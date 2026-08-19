@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_price_james",
+  "name": "Price James",
+  "external_ids": {
+    "wikidata": "Q111677225",
+    "imdb": "nm3809830"
+  },
+  "last_updated": "2026-08-19"
+}
