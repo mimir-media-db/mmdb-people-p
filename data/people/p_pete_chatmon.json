@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_pete_chatmon",
+  "name": "Pete Chatmon",
+  "external_ids": {
+    "wikidata": "Q7171893",
+    "imdb": "nm0154079"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1977
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_paul_meyer",
+  "name": "Paul Meyer",
+  "external_ids": {
+    "wikidata": "Q3371837",
+    "imdb": "nm0583312"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1920,
+  "death_year": 2007
+}

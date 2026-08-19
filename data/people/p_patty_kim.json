@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_patty_kim",
+  "name": "Patty Kim",
+  "external_ids": {
+    "wikidata": "Q7148713",
+    "imdb": "nm2143272"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1900
+}

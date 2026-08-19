@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_paul_barber",
+  "name": "Paul Barber",
+  "external_ids": {
+    "wikidata": "Q7149216",
+    "imdb": "nm0053448"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1951
+}
