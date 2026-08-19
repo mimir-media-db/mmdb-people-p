@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_philipp_virus",
+  "name": "Philipp Virus",
+  "external_ids": {
+    "wikidata": "Q95223303",
+    "imdb": "nm1214240"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1970
+}
