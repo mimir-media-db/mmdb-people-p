@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_weir",
+  "name": "Peter Weir",
+  "external_ids": {
+    "wikidata": "Q55424",
+    "imdb": "nm0001837"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1944
+}

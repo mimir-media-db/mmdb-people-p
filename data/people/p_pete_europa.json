@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_pete_europa",
+  "name": "Pete Europa",
+  "external_ids": {
+    "wikidata": "Q11887697",
+    "imdb": "nm3847128"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1959
+}

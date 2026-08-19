@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_buck",
+  "name": "Peter Buck",
+  "external_ids": {
+    "wikidata": "Q346801",
+    "imdb": "nm0118407"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1956
+}
