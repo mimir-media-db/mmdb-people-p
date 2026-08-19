@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_joback",
+  "name": "Peter Jöback",
+  "external_ids": {
+    "wikidata": "Q767041",
+    "imdb": "nm0433617"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1971
+}
