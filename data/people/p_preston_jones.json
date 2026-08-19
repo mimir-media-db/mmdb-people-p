@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_preston_jones",
+  "name": "Preston Jones",
+  "external_ids": {
+    "wikidata": "Q6085681",
+    "imdb": "nm1171144"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1983
+}

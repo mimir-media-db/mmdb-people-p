@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_pablo_escobar",
+  "name": "Pablo Escobar",
+  "external_ids": {
+    "wikidata": "Q187447",
+    "imdb": "nm1389257"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1949,
+  "death_year": 1993
+}

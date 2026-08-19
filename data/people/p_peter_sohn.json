@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_sohn",
+  "name": "Peter Sohn",
+  "external_ids": {
+    "wikidata": "Q7177024",
+    "imdb": "nm0812307"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1977
+}
