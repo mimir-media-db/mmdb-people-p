@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_pixie_lott",
+  "name": "Pixie Lott",
+  "external_ids": {
+    "wikidata": "Q207177",
+    "imdb": "nm1800495"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1991
+}

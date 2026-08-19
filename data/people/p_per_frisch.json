@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_per_frisch",
+  "name": "Per Frisch",
+  "external_ids": {
+    "wikidata": "Q11995196",
+    "imdb": "nm0295836"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1951
+}
