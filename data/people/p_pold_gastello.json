@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_pold_gastello",
+  "name": "Pold Gastello",
+  "external_ids": {
+    "wikidata": "Q6081580",
+    "imdb": "nm1223890"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1968
+}

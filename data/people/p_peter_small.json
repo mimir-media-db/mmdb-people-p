@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_small",
+  "name": "Peter Small",
+  "external_ids": {
+    "wikidata": "Q26832687",
+    "imdb": "nm7050331"
+  },
+  "last_updated": "2026-08-19"
+}

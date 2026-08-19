@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_porte",
+  "name": "Peter Porte",
+  "external_ids": {
+    "wikidata": "Q24962683",
+    "imdb": "nm2431173"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1985
+}

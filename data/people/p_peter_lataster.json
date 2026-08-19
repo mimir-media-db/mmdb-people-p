@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_lataster",
+  "name": "Peter Lataster",
+  "external_ids": {
+    "wikidata": "Q43435413",
+    "imdb": "nm0490006"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1954
+}
