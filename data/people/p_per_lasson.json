@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_per_lasson",
+  "name": "Per Lasson",
+  "external_ids": {
+    "wikidata": "Q105137370",
+    "imdb": "nm1165844"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1970
+}
