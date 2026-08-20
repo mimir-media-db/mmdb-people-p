@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_harness",
+  "name": "Peter Harness",
+  "external_ids": {
+    "wikidata": "Q7174544",
+    "imdb": "nm1739929"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1975
+}

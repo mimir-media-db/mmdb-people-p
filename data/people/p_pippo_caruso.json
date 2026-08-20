@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_pippo_caruso",
+  "name": "Pippo Caruso",
+  "external_ids": {
+    "wikidata": "Q3905533",
+    "imdb": "nm0142302"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1935,
+  "death_year": 2018
+}
