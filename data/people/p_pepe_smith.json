@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_pepe_smith",
+  "name": "Pepe Smith",
+  "external_ids": {
+    "wikidata": "Q7166237",
+    "imdb": "nm2034382"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1947,
+  "death_year": 2019
+}
