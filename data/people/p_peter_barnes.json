@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_barnes",
+  "name": "Peter Barnes",
+  "external_ids": {
+    "wikidata": "Q723964",
+    "imdb": "nm0055726"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1931,
+  "death_year": 2004
+}

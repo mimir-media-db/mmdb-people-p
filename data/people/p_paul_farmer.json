@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_paul_farmer",
+  "name": "Paul Farmer",
+  "external_ids": {
+    "wikidata": "Q2263705",
+    "imdb": "nm2141707"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1959,
+  "death_year": 2022
+}
