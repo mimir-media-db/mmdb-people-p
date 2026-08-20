@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_pierre_sarkozy",
+  "name": "Pierre Sarkozy",
+  "external_ids": {
+    "wikidata": "Q16338100",
+    "imdb": "nm7242795"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1984
+}
