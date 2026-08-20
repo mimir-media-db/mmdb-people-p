@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_best",
+  "name": "Peter Best",
+  "external_ids": {
+    "wikidata": "Q7172812",
+    "imdb": "nm0078984"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1943
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_kyed",
+  "name": "Peter Kyed",
+  "external_ids": {
+    "wikidata": "Q112455429",
+    "imdb": "nm1190004"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1963
+}

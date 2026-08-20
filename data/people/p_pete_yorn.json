@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_pete_yorn",
+  "name": "Pete Yorn",
+  "external_ids": {
+    "wikidata": "Q939105",
+    "imdb": "nm0948832"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1974
+}

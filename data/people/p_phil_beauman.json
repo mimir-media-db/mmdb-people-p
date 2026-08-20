@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_phil_beauman",
+  "name": "Phil Beauman",
+  "external_ids": {
+    "wikidata": "Q15639606",
+    "imdb": "nm0064556"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1949
+}

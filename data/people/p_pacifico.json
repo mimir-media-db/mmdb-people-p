@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_pacifico",
+  "name": "Pacifico",
+  "external_ids": {
+    "wikidata": "Q3888647",
+    "imdb": "nm1323858"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1964
+}

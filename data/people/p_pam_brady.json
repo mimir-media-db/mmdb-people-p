@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_pam_brady",
+  "name": "Pam Brady",
+  "external_ids": {
+    "wikidata": "Q455906",
+    "imdb": "nm0103702"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1973
+}

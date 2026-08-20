@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_pete_briquette",
+  "name": "Pete Briquette",
+  "external_ids": {
+    "wikidata": "Q7171864",
+    "imdb": "nm0109763"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1954
+}
