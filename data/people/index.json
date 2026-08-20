@@ -22718,6 +22718,11 @@
     "path": "data/people/p_pete_best.json"
   },
   {
+    "id": "p_pete_bridges",
+    "name": "Pete Bridges",
+    "path": "data/people/p_pete_bridges.json"
+  },
+  {
     "id": "p_pete_briquette",
     "name": "Pete Briquette",
     "birth_year": 1954,
@@ -36253,6 +36258,11 @@
     "name": "Pierre Novion",
     "birth_year": 1952,
     "path": "data/people/p_pierre_novion.json"
+  },
+  {
+    "id": "p_pierre_oberkampf",
+    "name": "Pierre Oberkampf",
+    "path": "data/people/p_pierre_oberkampf.json"
   },
   {
     "id": "p_pierre_pachet",
