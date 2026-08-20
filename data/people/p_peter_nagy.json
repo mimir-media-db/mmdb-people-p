@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_nagy",
+  "name": "Peter Nagy",
+  "external_ids": {
+    "wikidata": "Q721760",
+    "imdb": "nm3314436"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1959
+}
