@@ -2924,6 +2924,12 @@
     "path": "data/people/p_panos_papahadzis.json"
   },
   {
+    "id": "p_panos_stathoyiannis",
+    "name": "Panos Stathoyiannis",
+    "birth_year": 1959,
+    "path": "data/people/p_panos_stathoyiannis.json"
+  },
+  {
     "id": "p_panou",
     "name": "Panou",
     "path": "data/people/p_panou.json"
@@ -5741,6 +5747,12 @@
     "path": "data/people/p_paromita_vohra.json"
   },
   {
+    "id": "p_parov_stelar",
+    "name": "Parov Stelar",
+    "birth_year": 1974,
+    "path": "data/people/p_parov_stelar.json"
+  },
+  {
     "id": "p_parris_goebel",
     "name": "Parris Goebel",
     "birth_year": 1991,
@@ -6570,6 +6582,11 @@
     "path": "data/people/p_pascal_thomas.json"
   },
   {
+    "id": "p_pascal_trottier",
+    "name": "Pascal Trottier",
+    "path": "data/people/p_pascal_trottier.json"
+  },
+  {
     "id": "p_pascal_ulli",
     "name": "Pascal Ulli",
     "birth_year": 1969,
@@ -7161,10 +7178,22 @@
     "path": "data/people/p_pat_mcmahon.json"
   },
   {
+    "id": "p_pat_metheny",
+    "name": "Pat Metheny",
+    "birth_year": 1954,
+    "path": "data/people/p_pat_metheny.json"
+  },
+  {
     "id": "p_pat_mills",
     "name": "Pat Mills",
     "birth_year": 1949,
     "path": "data/people/p_pat_mills.json"
+  },
+  {
+    "id": "p_pat_moran",
+    "name": "Pat Moran",
+    "birth_year": 1876,
+    "path": "data/people/p_pat_moran.json"
   },
   {
     "id": "p_pat_morita",
@@ -9406,6 +9435,11 @@
     "path": "data/people/p_patrick_johnson.json"
   },
   {
+    "id": "p_patrick_jonsson",
+    "name": "Patrick Jonsson",
+    "path": "data/people/p_patrick_jonsson.json"
+  },
+  {
     "id": "p_patrick_joseph",
     "name": "Patrick Joseph",
     "path": "data/people/p_patrick_joseph.json"
@@ -11380,6 +11414,12 @@
     "path": "data/people/p_paul_arcand.json"
   },
   {
+    "id": "p_paul_arnold",
+    "name": "Paul Arnold",
+    "birth_year": 1804,
+    "path": "data/people/p_paul_arnold.json"
+  },
+  {
     "id": "p_paul_arseneau",
     "name": "Paul Arseneau",
     "path": "data/people/p_paul_arseneau.json"
@@ -12106,6 +12146,12 @@
     "name": "Paul de Leeuw",
     "birth_year": 1962,
     "path": "data/people/p_paul_de_leeuw.json"
+  },
+  {
+    "id": "p_paul_de_meo",
+    "name": "Paul De Meo",
+    "birth_year": 1953,
+    "path": "data/people/p_paul_de_meo.json"
   },
   {
     "id": "p_paul_de_munnik",
@@ -12944,6 +12990,12 @@
     "name": "Paul Jordan",
     "birth_year": 1940,
     "path": "data/people/p_paul_jordan.json"
+  },
+  {
+    "id": "p_paul_joyce",
+    "name": "Paul Joyce",
+    "birth_year": 1943,
+    "path": "data/people/p_paul_joyce.json"
   },
   {
     "id": "p_paul_junger_witt",
@@ -21165,6 +21217,12 @@
     "path": "data/people/p_per_norgard.json"
   },
   {
+    "id": "p_per_olov_enquist",
+    "name": "Per Olov Enquist",
+    "birth_year": 1934,
+    "path": "data/people/p_per_olov_enquist.json"
+  },
+  {
     "id": "p_per_oscarsson",
     "name": "Per Oscarsson",
     "birth_year": 1927,
@@ -21351,6 +21409,12 @@
     "name": "Pere Portabella",
     "birth_year": 1927,
     "path": "data/people/p_pere_portabella.json"
+  },
+  {
+    "id": "p_pere_riera",
+    "name": "Pere Riera",
+    "birth_year": 1973,
+    "path": "data/people/p_pere_riera.json"
   },
   {
     "id": "p_pere_soles_i_bahi",
@@ -22432,6 +22496,12 @@
     "path": "data/people/p_peter_balik.json"
   },
   {
+    "id": "p_peter_balko",
+    "name": "Peter Balko",
+    "birth_year": 1988,
+    "path": "data/people/p_peter_balko.json"
+  },
+  {
     "id": "p_peter_bankole",
     "name": "Peter Bankole",
     "birth_year": 1978,
@@ -22554,6 +22624,12 @@
     "path": "data/people/p_peter_becker.json"
   },
   {
+    "id": "p_peter_bellwood",
+    "name": "Peter Bellwood",
+    "birth_year": 1942,
+    "path": "data/people/p_peter_bellwood.json"
+  },
+  {
     "id": "p_peter_benedict",
     "name": "Peter Benedict",
     "birth_year": 1963,
@@ -22628,6 +22704,12 @@
     "name": "Peter Bevan",
     "birth_year": 1900,
     "path": "data/people/p_peter_bevan.json"
+  },
+  {
+    "id": "p_peter_bieri",
+    "name": "Peter Bieri",
+    "birth_year": 1944,
+    "path": "data/people/p_peter_bieri.json"
   },
   {
     "id": "p_peter_billingsley",
@@ -26261,6 +26343,12 @@
     "path": "data/people/p_peter_shadrin.json"
   },
   {
+    "id": "p_peter_shaffer",
+    "name": "Peter Shaffer",
+    "birth_year": 1926,
+    "path": "data/people/p_peter_shaffer.json"
+  },
+  {
     "id": "p_peter_shaw",
     "name": "Peter Shaw",
     "birth_year": 1918,
@@ -26795,6 +26883,11 @@
     "name": "Peter van Houten",
     "birth_year": 1951,
     "path": "data/people/p_peter_van_houten.json"
+  },
+  {
+    "id": "p_peter_van_laerhoven",
+    "name": "Peter Van Laerhoven",
+    "path": "data/people/p_peter_van_laerhoven.json"
   },
   {
     "id": "p_peter_van_viersen",
@@ -27597,6 +27690,12 @@
     "name": "Petr Hübner",
     "birth_year": 1946,
     "path": "data/people/p_petr_hubner.json"
+  },
+  {
+    "id": "p_petr_hudsky",
+    "name": "Petr Hudský",
+    "birth_year": 1972,
+    "path": "data/people/p_petr_hudsky.json"
   },
   {
     "id": "p_petr_hynek",
@@ -30907,6 +31006,11 @@
     "path": "data/people/p_philip_moon.json"
   },
   {
+    "id": "p_philip_mossman",
+    "name": "Philip Mossman",
+    "path": "data/people/p_philip_mossman.json"
+  },
+  {
     "id": "p_philip_ng",
     "name": "Philip Ng",
     "birth_year": 1977,
@@ -30917,6 +31021,17 @@
     "name": "Philip Noah Schwarz",
     "birth_year": 2001,
     "path": "data/people/p_philip_noah_schwarz.json"
+  },
+  {
+    "id": "p_philip_o_ceallaigh",
+    "name": "Philip Ó Ceallaigh",
+    "birth_year": 1968,
+    "path": "data/people/p_philip_o_ceallaigh.json"
+  },
+  {
+    "id": "p_philip_ocealllaigh",
+    "name": "Philip O´Cealllaigh",
+    "path": "data/people/p_philip_ocealllaigh.json"
   },
   {
     "id": "p_philip_olsson",
@@ -35072,6 +35187,12 @@
     "path": "data/people/p_pierre_nisse.json"
   },
   {
+    "id": "p_pierre_novion",
+    "name": "Pierre Novion",
+    "birth_year": 1952,
+    "path": "data/people/p_pierre_novion.json"
+  },
+  {
     "id": "p_pierre_pachet",
     "name": "Pierre Pachet",
     "birth_year": 1937,
@@ -35339,6 +35460,12 @@
     "name": "Pierre Tornade",
     "birth_year": 1930,
     "path": "data/people/p_pierre_tornade.json"
+  },
+  {
+    "id": "p_pierre_tremblay",
+    "name": "Pierre Tremblay",
+    "birth_year": 1954,
+    "path": "data/people/p_pierre_tremblay.json"
   },
   {
     "id": "p_pierre_triboulet",
@@ -38911,6 +39038,12 @@
     "id": "p_poornachandra_mysore",
     "name": "Poornachandra Mysore",
     "path": "data/people/p_poornachandra_mysore.json"
+  },
+  {
+    "id": "p_poornachandra_tejaswi",
+    "name": "Poornachandra Tejaswi",
+    "birth_year": 1982,
+    "path": "data/people/p_poornachandra_tejaswi.json"
   },
   {
     "id": "p_poornima_bhagyaraj",
