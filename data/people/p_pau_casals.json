@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_pau_casals",
+  "name": "Pau Casals",
+  "external_ids": {
+    "wikidata": "Q208537",
+    "imdb": "nm0142829"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1876,
+  "death_year": 1973
+}
