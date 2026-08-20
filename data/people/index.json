@@ -515,6 +515,11 @@
     "path": "data/people/p_pablo_carbonell.json"
   },
   {
+    "id": "p_pablo_carrillo",
+    "name": "Pablo Carrillo",
+    "path": "data/people/p_pablo_carrillo.json"
+  },
+  {
     "id": "p_pablo_casanueva",
     "name": "Pablo Casanueva",
     "birth_year": 1994,
@@ -918,6 +923,11 @@
     "name": "Pablo Molinero",
     "birth_year": 1976,
     "path": "data/people/p_pablo_molinero.json"
+  },
+  {
+    "id": "p_pablo_mondragon",
+    "name": "Pablo Mondragón",
+    "path": "data/people/p_pablo_mondragon.json"
   },
   {
     "id": "p_pablo_mora",
@@ -1834,6 +1844,12 @@
     "name": "Päivi Akonpelto",
     "birth_year": 1967,
     "path": "data/people/p_paivi_akonpelto.json"
+  },
+  {
+    "id": "p_pajaro_sunrise",
+    "name": "Pajaro Sunrise",
+    "birth_year": 1979,
+    "path": "data/people/p_pajaro_sunrise.json"
   },
   {
     "id": "p_pak_jin_sun",
@@ -6471,6 +6487,11 @@
     "name": "Pascal Kané",
     "birth_year": 1946,
     "path": "data/people/p_pascal_kane.json"
+  },
+  {
+    "id": "p_pascal_karier",
+    "name": "Pascal Karier",
+    "path": "data/people/p_pascal_karier.json"
   },
   {
     "id": "p_pascal_krumm",
@@ -15466,6 +15487,12 @@
     "path": "data/people/p_paula_hartmann.json"
   },
   {
+    "id": "p_paula_hawkins",
+    "name": "Paula Hawkins",
+    "birth_year": 1972,
+    "path": "data/people/p_paula_hawkins.json"
+  },
+  {
     "id": "p_paula_heredia",
     "name": "Paula Heredia",
     "birth_year": 1957,
@@ -15632,6 +15659,12 @@
     "name": "Paula Noronen",
     "birth_year": 1973,
     "path": "data/people/p_paula_noronen.json"
+  },
+  {
+    "id": "p_paula_olaz",
+    "name": "Paula Olaz",
+    "birth_year": 1988,
+    "path": "data/people/p_paula_olaz.json"
   },
   {
     "id": "p_paula_ortiz",
@@ -21784,6 +21817,12 @@
     "path": "data/people/p_pere_egbi.json"
   },
   {
+    "id": "p_pere_figueres",
+    "name": "Pere Figueres",
+    "birth_year": 1950,
+    "path": "data/people/p_pere_figueres.json"
+  },
+  {
     "id": "p_pere_joan_ventura",
     "name": "Pere Joan Ventura",
     "birth_year": 1946,
@@ -22147,6 +22186,11 @@
     "name": "Perri Peltz",
     "birth_year": 1960,
     "path": "data/people/p_perri_peltz.json"
+  },
+  {
+    "id": "p_perrine_prost",
+    "name": "Perrine Prost",
+    "path": "data/people/p_perrine_prost.json"
   },
   {
     "id": "p_perry_andelin_blake",
@@ -25294,6 +25338,12 @@
     "path": "data/people/p_peter_kurth.json"
   },
   {
+    "id": "p_peter_kutin",
+    "name": "Peter Kutin",
+    "birth_year": 1982,
+    "path": "data/people/p_peter_kutin.json"
+  },
+  {
     "id": "p_peter_kwong",
     "name": "Peter Kwong",
     "birth_year": 1952,
@@ -25339,6 +25389,12 @@
     "name": "Peter Lataster",
     "birth_year": 1954,
     "path": "data/people/p_peter_lataster.json"
+  },
+  {
+    "id": "p_peter_lauridsen",
+    "name": "Peter Lauridsen",
+    "birth_year": 1846,
+    "path": "data/people/p_peter_lauridsen.json"
   },
   {
     "id": "p_peter_lawson_jones",
@@ -25756,6 +25812,12 @@
     "name": "Peter McCauley",
     "birth_year": 1950,
     "path": "data/people/p_peter_mccauley.json"
+  },
+  {
+    "id": "p_peter_mcconnell",
+    "name": "Peter McConnell",
+    "birth_year": 1959,
+    "path": "data/people/p_peter_mcconnell.json"
   },
   {
     "id": "p_peter_mcdonald",
@@ -31629,6 +31691,11 @@
     "path": "data/people/p_philip_quast.json"
   },
   {
+    "id": "p_philip_rance",
+    "name": "Philip Rance",
+    "path": "data/people/p_philip_rance.json"
+  },
+  {
     "id": "p_philip_riccio",
     "name": "Philip Riccio",
     "path": "data/people/p_philip_riccio.json"
@@ -36450,6 +36517,12 @@
     "id": "p_pierreyves_charbonneau",
     "name": "Pierre-Yves Charbonneau",
     "path": "data/people/p_pierreyves_charbonneau.json"
+  },
+  {
+    "id": "p_pierreyves_cruaud",
+    "name": "Pierre-Yves Cruaud",
+    "birth_year": 1972,
+    "path": "data/people/p_pierreyves_cruaud.json"
   },
   {
     "id": "p_pierreyves_frei",
