@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_pat_metheny",
+  "name": "Pat Metheny",
+  "external_ids": {
+    "wikidata": "Q213887",
+    "imdb": "nm0582533"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1954
+}

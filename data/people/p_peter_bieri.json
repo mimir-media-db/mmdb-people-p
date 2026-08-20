@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_bieri",
+  "name": "Peter Bieri",
+  "external_ids": {
+    "wikidata": "Q115630",
+    "imdb": "nm1453358"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1944,
+  "death_year": 2023
+}
