@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_pat_mills",
+  "name": "Pat Mills",
+  "external_ids": {
+    "wikidata": "Q2043544",
+    "imdb": "nm1498168"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1949
+}

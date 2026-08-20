@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_plate",
+  "name": "Peter Plate",
+  "external_ids": {
+    "wikidata": "Q2077566",
+    "imdb": "nm1733589"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1967
+}
