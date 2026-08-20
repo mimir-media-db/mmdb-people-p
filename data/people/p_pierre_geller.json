@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_pierre_geller",
+  "name": "Pierre Geller",
+  "external_ids": {
+    "wikidata": "Q55599013",
+    "imdb": "nm0312404"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1949
+}
