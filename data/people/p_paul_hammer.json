@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_paul_hammer",
+  "name": "Paul Hammer",
+  "external_ids": {
+    "wikidata": "Q94937131"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1880,
+  "death_year": 1941
+}

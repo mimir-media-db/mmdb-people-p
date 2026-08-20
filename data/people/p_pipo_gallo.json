@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_pipo_gallo",
+  "name": "Pipo Gallo",
+  "external_ids": {
+    "wikidata": "Q123332580",
+    "imdb": "nm1823353"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1961,
+  "death_year": 2023
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_petra_revenue",
+  "name": "Petra Revenue",
+  "external_ids": {
+    "wikidata": "Q4974570",
+    "imdb": "nm1371836"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1965
+}
