@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_phil_campbell",
+  "name": "Phil Campbell",
+  "external_ids": {
+    "wikidata": "Q366807",
+    "imdb": "nm0132786"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1961,
+  "death_year": 2026
+}
