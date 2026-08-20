@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peterlicht",
+  "name": "PeterLicht",
+  "external_ids": {
+    "wikidata": "Q880650",
+    "imdb": "nm1968126"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1999
+}

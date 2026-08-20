@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_primary",
+  "name": "Primary",
+  "external_ids": {
+    "wikidata": "Q12622125",
+    "imdb": "nm9894200"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1983
+}
