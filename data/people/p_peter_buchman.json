@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_buchman",
+  "name": "Peter Buchman",
+  "external_ids": {
+    "wikidata": "Q6797931",
+    "imdb": "nm0118224"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1967
+}

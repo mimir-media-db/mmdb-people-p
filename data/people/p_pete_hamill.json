@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_pete_hamill",
+  "name": "Pete Hamill",
+  "external_ids": {
+    "wikidata": "Q7172000",
+    "imdb": "nm0357687"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1935,
+  "death_year": 2020
+}

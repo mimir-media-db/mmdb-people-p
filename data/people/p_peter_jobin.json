@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_jobin",
+  "name": "Peter Jobin",
+  "external_ids": {
+    "wikidata": "Q95312830",
+    "imdb": "nm0423401"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1943
+}
