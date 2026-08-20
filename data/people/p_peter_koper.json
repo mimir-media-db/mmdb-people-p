@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_koper",
+  "name": "Peter Koper",
+  "external_ids": {
+    "wikidata": "Q22005879",
+    "imdb": "nm0465756"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1946,
+  "death_year": 2022
+}
