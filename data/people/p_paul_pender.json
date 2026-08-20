@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_paul_pender",
+  "name": "Paul Pender",
+  "external_ids": {
+    "wikidata": "Q922976",
+    "imdb": "nm0671670"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1930,
+  "death_year": 2003
+}

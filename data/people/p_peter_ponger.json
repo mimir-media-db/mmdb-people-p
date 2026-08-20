@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_ponger",
+  "name": "Peter Ponger",
+  "external_ids": {
+    "wikidata": "Q2077591",
+    "imdb": "nm0690410"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1949
+}
