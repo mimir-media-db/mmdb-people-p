@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_paul_mauriat",
+  "name": "Paul Mauriat",
+  "external_ids": {
+    "wikidata": "Q50788",
+    "imdb": "nm0561098"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1925,
+  "death_year": 2006
+}

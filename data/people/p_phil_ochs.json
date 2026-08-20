@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_phil_ochs",
+  "name": "Phil Ochs",
+  "external_ids": {
+    "wikidata": "Q379802",
+    "imdb": "nm0643794"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1940,
+  "death_year": 1976
+}
