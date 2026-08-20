@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_hobbs",
+  "name": "Peter Hobbs",
+  "external_ids": {
+    "wikidata": "Q28055460",
+    "imdb": "nm2611381"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1970
+}
