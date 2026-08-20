@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_pat_proft",
+  "name": "Pat Proft",
+  "external_ids": {
+    "wikidata": "Q263607",
+    "imdb": "nm0698493"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1947
+}
