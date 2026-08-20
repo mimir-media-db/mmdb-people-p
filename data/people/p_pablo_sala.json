@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_pablo_sala",
+  "name": "Pablo Sala",
+  "external_ids": {
+    "wikidata": "Q20441969",
+    "imdb": "nm1103979"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1969
+}

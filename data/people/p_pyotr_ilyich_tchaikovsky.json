@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_pyotr_ilyich_tchaikovsky",
+  "name": "Pyotr Ilyich Tchaikovsky",
+  "external_ids": {
+    "wikidata": "Q7315",
+    "imdb": "nm0006318"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1840,
+  "death_year": 1893
+}
