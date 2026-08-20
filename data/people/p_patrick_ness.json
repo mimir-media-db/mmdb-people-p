@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_patrick_ness",
+  "name": "Patrick Ness",
+  "external_ids": {
+    "wikidata": "Q2057843",
+    "imdb": "nm4710432"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1971
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_pete_droge",
+  "name": "Pete Droge",
+  "external_ids": {
+    "wikidata": "Q3900797",
+    "imdb": "nm0238196"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1969
+}
