@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_kutin",
+  "name": "Peter Kutin",
+  "external_ids": {
+    "wikidata": "Q111670985",
+    "imdb": "nm3204078"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1982
+}
