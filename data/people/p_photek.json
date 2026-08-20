@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_photek",
+  "name": "Photek",
+  "external_ids": {
+    "wikidata": "Q1349876",
+    "imdb": "nm0662743"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1972
+}
