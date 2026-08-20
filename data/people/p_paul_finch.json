@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_paul_finch",
+  "name": "Paul Finch",
+  "external_ids": {
+    "wikidata": "Q18574323",
+    "imdb": "nm1290765"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1963
+}
