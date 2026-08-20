@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_freund",
+  "name": "Peter Freund",
+  "external_ids": {
+    "wikidata": "Q125706",
+    "imdb": "nm0006923"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1952
+}
