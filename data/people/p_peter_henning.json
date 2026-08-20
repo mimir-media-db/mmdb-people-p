@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_henning",
+  "name": "Peter Henning",
+  "external_ids": {
+    "wikidata": "Q2075624",
+    "imdb": "nm0377420"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1955
+}
