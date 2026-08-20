@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_phil_elverum",
+  "name": "Phil Elverum",
+  "external_ids": {
+    "wikidata": "Q7181870",
+    "imdb": "nm1747536"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1978
+}

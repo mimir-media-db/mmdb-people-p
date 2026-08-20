@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_peter_gromer",
+  "name": "Peter Gromer",
+  "external_ids": {
+    "wikidata": "Q61607927",
+    "imdb": "nm1825474"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1978
+}
