@@ -2800,6 +2800,11 @@
     "path": "data/people/p_pancho_moler.json"
   },
   {
+    "id": "p_pancho_tuesta",
+    "name": "Pancho Tuesta",
+    "path": "data/people/p_pancho_tuesta.json"
+  },
+  {
     "id": "p_panchu_arunachalam",
     "name": "Panchu Arunachalam",
     "birth_year": 1941,
@@ -19631,6 +19636,12 @@
     "name": "Pedro Farah",
     "birth_year": 1926,
     "path": "data/people/p_pedro_farah.json"
+  },
+  {
+    "id": "p_pedro_favaron",
+    "name": "Pedro Favaron",
+    "birth_year": 1979,
+    "path": "data/people/p_pedro_favaron.json"
   },
   {
     "id": "p_pedro_filipe_marques",
@@ -36677,6 +36688,12 @@
     "id": "p_pierreandre_weitz",
     "name": "Pierre-André Weitz",
     "path": "data/people/p_pierreandre_weitz.json"
+  },
+  {
+    "id": "p_pierreange_carlotti",
+    "name": "Pierre-Ange Carlotti",
+    "birth_year": 1989,
+    "path": "data/people/p_pierreange_carlotti.json"
   },
   {
     "id": "p_pierreange_le_pogam",
